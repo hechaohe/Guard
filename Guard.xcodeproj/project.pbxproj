@@ -14,6 +14,7 @@
 		4711774E2159CF6B005E7CE5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4711774C2159CF6B005E7CE5 /* LaunchScreen.storyboard */; };
 		471177592159CF6B005E7CE5 /* GuardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 471177582159CF6B005E7CE5 /* GuardTests.swift */; };
 		471177642159CF6B005E7CE5 /* GuardUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 471177632159CF6B005E7CE5 /* GuardUITests.swift */; };
+		471177742159DD70005E7CE5 /* books.txt in Resources */ = {isa = PBXBuildFile; fileRef = 471177732159DD70005E7CE5 /* books.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		4711775F2159CF6B005E7CE5 /* GuardUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GuardUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		471177632159CF6B005E7CE5 /* GuardUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuardUITests.swift; sourceTree = "<group>"; };
 		471177652159CF6B005E7CE5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		471177732159DD70005E7CE5 /* books.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = books.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				471177432159CF62005E7CE5 /* AppDelegate.swift */,
 				471177452159CF62005E7CE5 /* ViewController.swift */,
+				471177732159DD70005E7CE5 /* books.txt */,
 				471177472159CF62005E7CE5 /* Main.storyboard */,
 				4711774A2159CF6B005E7CE5 /* Assets.xcassets */,
 				4711774C2159CF6B005E7CE5 /* LaunchScreen.storyboard */,
@@ -229,6 +232,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				471177742159DD70005E7CE5 /* books.txt in Resources */,
 				4711774E2159CF6B005E7CE5 /* LaunchScreen.storyboard in Resources */,
 				4711774B2159CF6B005E7CE5 /* Assets.xcassets in Resources */,
 				471177492159CF62005E7CE5 /* Main.storyboard in Resources */,
